@@ -246,8 +246,4 @@ const ArtMobile = styled.figure`
   }
 `;
 
-
-
-
-
 export default Events;

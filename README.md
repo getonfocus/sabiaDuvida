@@ -1,6 +1,6 @@
 # Get on Focus
 
-https://www.getonfocus.com)
+Web development (https://www.getonfocus.com)
 
 ## Installation
 
